@@ -1,0 +1,12 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "Simple chat app",
+  "main": "server.js",
+  "author": "mmsmsy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
